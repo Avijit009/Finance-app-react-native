@@ -1,0 +1,26 @@
+[debug] [2024-02-02T05:59:00.872Z] ----------------------------------------------------------------------
+[debug] [2024-02-02T05:59:00.875Z] Command:       /usr/bin/node /usr/bin/firebase init
+[debug] [2024-02-02T05:59:00.876Z] CLI Version:   13.1.0
+[debug] [2024-02-02T05:59:00.876Z] Platform:      linux
+[debug] [2024-02-02T05:59:00.876Z] Node Version:  v20.5.1
+[debug] [2024-02-02T05:59:00.876Z] Time:          Fri Feb 02 2024 11:59:00 GMT+0600 (Bangladesh Standard Time)
+[debug] [2024-02-02T05:59:00.877Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-02-02T05:59:00.880Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2024-02-02T05:59:00.930Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-02-02T05:59:00.930Z] > authorizing via signed-in user (avijitdash067@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /media/avijit/New Volume/WEB/Bohubrihi/React Native/Assignment/finance-app
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
